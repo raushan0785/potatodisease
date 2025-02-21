@@ -107,7 +107,7 @@ python predict.py path/to/leaf_image.jpg
 
 🤝 Contributors
 
-👨‍💻 Your Name - 
+👨‍💻 Your Name - https://github.com/raushan0785
 
 🐟 License
 
